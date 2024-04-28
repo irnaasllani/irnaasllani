@@ -48,7 +48,7 @@ Thank you to everyone who has contributed to the development and improvement of 
 
 ## License
 
-This project is open-source and available under the [MIT License](URL to your repository license).
+This project is open-source and currently not under any formal license. Access to the source code is granted on a case-by-case basis. Please contact me (irna.asllani@gmail.com) to request access or more information.
 
 ## Project Status
 
