@@ -45,7 +45,7 @@ Got some cool ideas or code? Fork the stash, branch out, and hit me with a pull 
 
 ## On the House
 
-This little project is open-source to the core but isn't strapped down by any license just yet. Want to get your hands on the code? Let's talk: [irna.asllani@gmail.com].
+This little project is open-source to the core but isn't strapped down by any license just yet. Want to get your hands on the code? Let's talk: [irna.asllani@gmail.com](mailto:irna.asllani@gmail.com).
 
 ## What's Cooking
 
