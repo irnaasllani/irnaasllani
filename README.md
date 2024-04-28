@@ -12,13 +12,12 @@ I put together a nifty little Python quiz app that serves up questions and check
 - Zaps right back with feedback after each answer
 - Built using nothing but the good ol' Python standard library
 
-## Installation
+## Getting Started
 
-Clone the project using the following command:
+Want to give it a whirl? Just clone it down like this:
 
 ```bash
-git clone [https://github.com/irnaasllani/irnaasllani.git
-]
+git clone https://github.com/irnaasllani/irnaasllani.git
 
 ## Navigate to the project directory
 
