@@ -1,8 +1,8 @@
 # Python Quiz Game
 
-## Description
+## What's This All About?
 
-This project is a simple Python-based quiz game. It reads questions and their answers from a text file and engages the user in a trivia game. The user's responses are checked against the correct answers stored in the file, and the score is updated accordingly.
+I put together a nifty little Python quiz app that serves up questions and checks your answers against the ones it's got stored. It's a straightforward game where your correct guesses rack up points on the scoreboard.
 
 ## Features
 
