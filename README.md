@@ -47,6 +47,6 @@ Got some cool ideas or code? Fork the stash, branch out, and hit me with a pull 
 
 This little project is open-source to the core but isn't strapped down by any license just yet. Want to get your hands on the code? Let's talk: [irna.asllani@gmail.com].
 
-## Project Status
+## What's Cooking
 
-The quiz game is currently in a functional state and is open to enhancements and bug fixes.
+The game's alive and kicking, ready for you to play, and I'm all ears for fresh ideas and fixes.
