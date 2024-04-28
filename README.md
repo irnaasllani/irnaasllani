@@ -27,23 +27,21 @@ cd irnaasllani
 
 python src/main.py
 
-## Support
+## Need a Hand?
 
-If you encounter any problems or have suggestions, please open an issue on the [GitHub repository issues page](URL to your repository issues page) or send an email to [irna.asllani@gmail.com].
+Hit a snag? Got a brainwave? Drop your thoughts in the [issue tracker here](URL to your repository issues page) or shoot me an email at [irna.asllani@gmail.com].
 
-## Roadmap
+## Looking Ahead
 
-- Implement a high score feature
-- Add a wider range of questions
-- Introduce multiple choice question format
+Here's what I'm thinking of adding down the line:
 
-## Contributing
+- A scoreboard to see who's the quiz whiz
+- Even more brain-busting questions
+- Maybe even toss in some multiple-choice questions for kicks
 
-Contributions are welcome. Please fork the repository and open a pull request with your changes. All changes are subject to review and discussion.
+## Chip In!
 
-## Authors and acknowledgment
-
-Thank you to everyone who has contributed to the development and improvement of this quiz game.
+Got some cool ideas or code? Fork the stash, branch out, and hit me with a pull request. Let's make it even better together.
 
 ## License
 
