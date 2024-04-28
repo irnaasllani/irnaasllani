@@ -18,7 +18,7 @@ Want to give it a whirl? Just clone it down like this:
 ```bash
 git clone https://github.com/irnaasllani/irnaasllani.git
 
-Jump into the game directory with:
+## Jump into the game directory with:
 
 ```bash
 cd irnaasllani
