@@ -22,7 +22,7 @@ git clone [https://github.com/irnaasllani/irnaasllani.git
 
 ## Navigate to the project directory
 
-cd [Your project directory]
+cd irnaasllani
 
 ## Run the game
 
