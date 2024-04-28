@@ -15,12 +15,12 @@ I put together a nifty little Python quiz app that serves up questions and check
 ## Getting Started
 
 Want to give it a whirl? Just clone it down like this:
-
 ```bash
 git clone https://github.com/irnaasllani/irnaasllani.git
 
-## Project directory
+Jump into the game directory with:
 
+```bash
 cd irnaasllani
 
 ## Run the game
