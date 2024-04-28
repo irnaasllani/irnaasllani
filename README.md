@@ -4,13 +4,13 @@
 
 I put together a nifty little Python quiz app that serves up questions and checks your answers against the ones it's got stored. It's a straightforward game where your correct guesses rack up points on the scoreboard.
 
-## Features
+## Cool Stuff My Game Does
 
-- Loads questions and answers from a text file
-- Randomizes question order each game
-- Keeps score of correct and incorrect answers
-- Provides immediate feedback to the user
-- Implemented in Python with standard libraries
+- Snags questions and their answers right out of a plain text file
+- Shuffles the questions each time for a fresh experience
+- Tally up your wins and whoopsies
+- Zaps right back with feedback after each answer
+- Built using nothing but the good ol' Python standard library
 
 ## Installation
 
