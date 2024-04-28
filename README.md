@@ -23,7 +23,7 @@ git clone https://github.com/irnaasllani/irnaasllani.git
 ```bash
 cd irnaasllani
 
-## Run the game
+## Kick things off with:
 
 python src/main.py
 
