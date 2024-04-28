@@ -43,9 +43,9 @@ Here's what I'm thinking of adding down the line:
 
 Got some cool ideas or code? Fork the stash, branch out, and hit me with a pull request. Let's make it even better together.
 
-## License
+## On the House
 
-This project is open-source and currently not under any formal license. Access to the source code is granted on a case-by-case basis. Please contact me (irna.asllani@gmail.com) to request access or more information.
+This little project is open-source to the core but isn't strapped down by any license just yet. Want to get your hands on the code? Let's talk: [irna.asllani@gmail.com].
 
 ## Project Status
 
