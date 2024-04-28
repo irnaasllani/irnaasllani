@@ -29,7 +29,7 @@ python src/main.py
 
 ## Need a Hand?
 
-Hit a snag? Got a brainwave? Drop your thoughts in the [issue tracker here](URL to your repository issues page) or shoot me an email at [irna.asllani@gmail.com](mailto:irna.asllani@gmail.com).
+Hit a snag? Got a brainwave? Drop your thoughts in the [issue tracker here]([URL to your repository issues page](https://github.com/irnaasllani/irnaasllani/issues)) or shoot me an email at [irna.asllani@gmail.com](mailto:irna.asllani@gmail.com).
 
 ## Looking Ahead
 
