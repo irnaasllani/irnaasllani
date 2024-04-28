@@ -19,7 +19,7 @@ Want to give it a whirl? Just clone it down like this:
 ```bash
 git clone https://github.com/irnaasllani/irnaasllani.git
 
-## Navigate to the project directory
+## Project directory
 
 cd irnaasllani
 
