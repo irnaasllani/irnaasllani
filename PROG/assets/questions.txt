@@ -1,0 +1,8 @@
+What is the capital of Albania?;Tirana
+What is Python?;Programming Language
+Who wrote 'It Ends with Us'?;Collen Hoover
+Which Beatle was born in England?;John Lennon
+How old was Charlie Chaplin when he died?;88 years old
+What is the oldest programming language?;Fortran
+What language is C++ language similar to?;Java Script
+What place is known for oranges?;Brazil
